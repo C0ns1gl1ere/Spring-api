@@ -13,7 +13,7 @@ It implements full CRUD functionality (Create, Read, Update, Delete).
 
 ### 1. Main Documentation Page (Swagger)
 Overview of all available endpoints:
-![Swagger Main](images/swagger-main-page.png)
+![Swagger Main](images/swagger-main-page.png.png)
 
 ### 2. Create Product (POST)
 Creating a new entry in the database. Status **201 Created**:
